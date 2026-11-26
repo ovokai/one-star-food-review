@@ -10,7 +10,7 @@ An alien tourist gives planet Earth a one-star review — and still admits the f
 
 ## The entry
 
-> One star: the natives poison their own sky, charge rent for water, and queue three hours to watch a ball refuse to move, but I would cross twelve galaxies and two customs lines again for the dumplings.
+> One star: the natives poison their sky, charge rent for water, and queue for hours to watch a ball refuse to move, but I would cross twelve galaxies and two customs lines again for the dumplings.
 
 ## Run
 

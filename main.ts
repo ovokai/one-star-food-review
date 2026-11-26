@@ -7,7 +7,7 @@ import { dirname } from "node:path";
 // hours queued to watch a ball refuse to move); the turn is that the
 // dumplings alone justify the trip back.
 const LINE =
-  "One star: the natives poison their own sky, charge rent for water, and queue three hours to watch a ball refuse to move, but I would cross twelve galaxies and two customs lines again for the dumplings.";
+  "One star: the natives poison their sky, charge rent for water, and queue for hours to watch a ball refuse to move, but I would cross twelve galaxies and two customs lines again for the dumplings.";
 
 function main(): void {
   if (LINE.length < 1 || LINE.length > 200) {
